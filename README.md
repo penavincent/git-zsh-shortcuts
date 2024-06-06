@@ -9,7 +9,7 @@ This is a fork of the Oh-My-Zsh Git plugin, modified to be easily installable wi
 To install using zinit, add the following to your `.zshrc`:
 
 ```sh
-zinit light penavincent/ohmyzsh-git-plugin
+zinit light penavincent/git-zsh-shortcuts
 ```
 
 ### Using antidote
@@ -17,7 +17,7 @@ zinit light penavincent/ohmyzsh-git-plugin
 To install using antidote, add the following to your `.zshrc`:
 
 ```sh
-antidote bundle penavincent/ohmyzsh-git-plugin
+antidote bundle penavincent/git-zsh-shortcuts
 ```
 
 ### Using other plugin managers
