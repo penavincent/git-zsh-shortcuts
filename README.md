@@ -1,4 +1,4 @@
-# Enhanced Git Plugin for Oh-My-Zsh
+# Enhanced Git Plugin for ZSH
 
 This is a fork of the Oh-My-Zsh Git plugin, modified to be easily installable with various Zsh plugin managers such as zinit, antidote, and more.
 
